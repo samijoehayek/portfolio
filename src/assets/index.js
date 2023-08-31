@@ -20,6 +20,10 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import ethersjs from "./tech/ethersjs.png";
+import nextjs from "./tech/nextjs.png";
+import angular from "./tech/angular.svg";
+import solidity from "./tech/solidity.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -29,6 +33,9 @@ import wordpress from "./company/wordpress.png"
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
+import oasisx from "./OasisXMarketplace.png";
+import metapreneurs from "./Metapreneurs.png";
+import malta from "./malta.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -42,6 +49,10 @@ export {
   menu,
   close,
   css,
+  ethersjs,
+  nextjs,
+  angular,
+  solidity,
   docker,
   figma,
   git,
@@ -60,6 +71,9 @@ export {
   wordpress,
   touch,
   tesla,
+  malta,
+  oasisx,
+  metapreneurs,
   carrent,
   jobit,
   tripguide,

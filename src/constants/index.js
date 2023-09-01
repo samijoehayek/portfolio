@@ -5,8 +5,6 @@ import {
   web,
   javascript,
   typescript,
-  html,
-  css,
   solidity,
   angular,
   nextjs,
@@ -16,16 +14,12 @@ import {
   nodejs,
   mongodb,
   git,
-  figma,
   docker,
   wordpress,
   touch,
-  carrent,
   malta,
   oasisx,
   metapreneurs,
-  jobit,
-  tripguide,
   threejs,
 } from '../assets'
 
@@ -64,14 +58,14 @@ const services = [
 ]
 
 const technologies = [
-  {
-    name: 'HTML 5',
-    icon: html,
-  },
-  {
-    name: 'CSS 3',
-    icon: css,
-  },
+//   {
+//     name: 'HTML 5',
+//     icon: html,
+//   },
+//   {
+//     name: 'CSS 3',
+//     icon: css,
+//   },
   {
     name: 'JavaScript',
     icon: javascript,
@@ -124,10 +118,10 @@ const technologies = [
     name: 'git',
     icon: git,
   },
-  {
-    name: 'figma',
-    icon: figma,
-  },
+//   {
+//     name: 'figma',
+//     icon: figma,
+//   },
   {
     name: 'docker',
     icon: docker,
